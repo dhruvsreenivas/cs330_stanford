@@ -11,7 +11,7 @@ google-auth-oauthlib==0.4.1
 grpcio==1.27.2
 gym==0.16.0
 idna==2.9
-joblib==0.14.1
+joblib==1.1.1
 kiwisolver==1.1.0
 Markdown==3.2.1
 matplotlib==3.0.3
